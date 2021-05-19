@@ -5,3 +5,5 @@ This is meant to be used in tandem with Fanstasy Grounds Unity. It will also hel
 music at the correct time, sending players tips about what they just found, as well as sharing item infos and 
 assisting with perception checks. This bot will assist the DM and act as an extra pair of hands to make running
 a session online easier. 
+
+Currently this bot does none of these things and will just connect to discord. 
